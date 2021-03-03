@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-In this project, the task is to analyze disaster data and form an api. The disaster messagea are classified by input. 
+In this project, the task is to analyze disaster data and form an api. It also includes a web app which enables users to input messages to classigy them. 
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
