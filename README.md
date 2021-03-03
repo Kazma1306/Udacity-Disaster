@@ -1,5 +1,7 @@
 # Disaster Response Pipeline Project
 
+In this project, the task is to analyze disaster data and form an api. The disaster messagea are classified by input. 
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -12,7 +14,3 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
-# Udacity-Disaster
-# Udacity-Disaster
-# Udacity-Disaster
-# Udacity-Disaster
